@@ -148,13 +148,11 @@ to the screen.
 **3. pala3d, real-time hand tracking to particles**
 https://www.instagram.com/reel/DTF-F-giHSp/
 
-Inputs: Kinect.
+Inputs: Kinect capturing body and hand movement.
 
-Outputs: Hand movement drives the background imagery generated in Unreal
-Engine. The 3D modeled section in front stays fixed while the background moves
-with his hands, displayed on a monitor. In his own caption he describes it as
-Kinect capturing body and hand movement, processed in TouchDesigner, driving
-live particle behavior inside Unreal.
+Outputs: The hand tracking data is processed in TouchDesigner and drives live
+particle behavior inside Unreal Engine, so gestures turn into responsive
+visuals in real time.
 
 All three of these are doing the same basic thing my project needs to do, which
 is take something a person does with their body and turn it into a change on a
