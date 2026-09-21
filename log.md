@@ -121,3 +121,41 @@ concert too and absolutely loved it.
 
 Sketches for all twelve are in the repo as 9.21-sketches-1.png and
 9.21-sketches-2.png.
+
+Three works by other people that use responsive video, with the inputs and
+outputs for each.
+
+**1. Kristaps Kazaks, case study for Arturs Skutelis "Vienkarsi Vardi"**
+https://www.youtube.com/watch?v=NegNcQyWhfM
+Channel: kristaps kazaks (https://www.youtube.com/@kristaps.kazaks)
+
+Inputs: Kinect, DJ and vocal mics, and MIDI.
+
+Outputs: Unreal Engine builds the visuals and streams the video to a second
+computer running Resolume. The Resolume machine adds the accents and finishing
+touches, then sends the video signal out to an LED wall.
+
+**2. pwnisher (Clinton Jones), "How I Create Audio-Reactive Art"**
+https://www.youtube.com/watch?v=12J2XH2UxDc
+Channel: pwnisher (https://www.youtube.com/@pwnisher)
+
+Inputs: MIDI.
+
+Outputs: 3D instanced geometry that moves with the input, then downsampled
+through a Resolution TOP to give it a Game Boy style retro look before it goes
+to the screen.
+
+**3. pala3d, real-time hand tracking to particles**
+https://www.instagram.com/reel/DTF-F-giHSp/
+
+Inputs: Kinect.
+
+Outputs: Hand movement drives the background imagery generated in Unreal
+Engine. The 3D modeled section in front stays fixed while the background moves
+with his hands, displayed on a monitor. In his own caption he describes it as
+Kinect capturing body and hand movement, processed in TouchDesigner, driving
+live particle behavior inside Unreal.
+
+All three of these are doing the same basic thing my project needs to do, which
+is take something a person does with their body and turn it into a change on a
+screen fast enough that the person can tell they caused it.
