@@ -81,3 +81,43 @@ component isn't resolving its `modules/` folder. Unresolved, parked for now.
 - Save the TouchDesigner project properly — it's still unsaved
 - Fix or drop the MCP server
 - Use handy for something; only handx is doing any work right now
+
+09/21/2026 - Concept day. No building, just figuring out what this thing should
+actually be.
+
+Wrote up ten concepts and put them in concepts.md. They are:
+
+1. The Missing Guest
+2. Blink
+3. Window Body
+4. The Follower
+5. Pareidolia
+6. Time Slice
+7. Exhale
+8. Garden
+9. Photosynthesis
+10. Afraid of Her
+
+Then I did two more that were not part of the ten but seemed fun enough to
+explore anyway:
+
+11. The Face That Learns Her
+12. Threads
+
+The rule I kept coming back to is that somebody walks up to this with no idea
+what it is and nobody there to explain it. So it has to teach itself fast. That
+knocked out a bunch of ideas that were cool but needed a sign next to them to
+make any sense.
+
+Garden is the one I changed the most. It started as a plant that just grows on
+its own based on how much time people spend in the room, and I tweaked it so
+that you move your hand like you are tipping a watering can and that is what
+makes it grow. Way better because you are actually doing something instead of
+just existing near it.
+
+I also went down a pretty deep hole on Instagram and YouTube looking at this
+kind of work and found a ton of stuff I liked. Watched a full interactive
+concert too and absolutely loved it.
+
+Sketches for all twelve are in the repo as 9.21-sketches-1.png and
+9.21-sketches-2.png.
