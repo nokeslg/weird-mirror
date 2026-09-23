@@ -157,3 +157,5 @@ visuals in real time.
 All three of these are doing the same basic thing my project needs to do, which
 is take something a person does with their body and turn it into a change on a
 screen fast enough that the person can tell they caused it.
+
+9/23: I worked on building out my little creature that runs away from me. It was fairly difficult and took a long time to figure out how to make the creature figure out my proximity and react to it. It was more difficult to figure out how to map my living room for the creature to move around it somewhat accurately but I still didn't get it perfect. I'm likely going to need to build a tool to adapt to the different rooms so I can display it anywhere. I also realize that the depth is a bit flawed, the creature can run right through me which is a flaw that needs to be worked out further.
