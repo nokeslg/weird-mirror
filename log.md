@@ -161,3 +161,11 @@ screen fast enough that the person can tell they caused it.
 9/23: I worked on building out my little creature that runs away from me. It was fairly difficult and took a long time to figure out how to make the creature figure out my proximity and react to it. It was more difficult to figure out how to map my living room for the creature to move around it somewhat accurately but I still didn't get it perfect. I'm likely going to need to build a tool to adapt to the different rooms so I can display it anywhere. I also realize that the depth is a bit flawed, the creature can run right through me which is a flaw that needs to be worked out further.
 
 9/28: The calibration and setting up the room environment was quite difficult and took up most of the time, as well as trying to nail the depth with the ghost with the use of a shadow and tweaking the ghost's appearance. Currently, it's on the right track, but with all of the changes to the room calibration, the depth effect where the ghost disappears behind the person ended up having some issues, so that's to be solved next.
+
+9/30 - I had to pivot quite a lot. I tried multiple different depth mapping approaches but absolutely nothing worked in a way I was clean and confident in. I pivoted to keeping the ghost 2D and relying on hand/body tracking instead. Now the journey looks like a person coming into view and seeing the ghost quickly hide behind them. If they move they can see the ghost peeking chasing to stay behind them. Once they learn that they need to stand still for a moment, the ghost will start to peak himself out. After staying for a moment and not doing any sudden movements, the ghost will fully come out. The user can then slowly raise their hands in a gentle way like they're going to pet the ghost. The ghost will then get warmer and approach them and when the user tries to pat the ghost on the head a few times it will fall asleep. The whole cycle can be repeated with a quick movement at any point.
+
+![peeking out from behind](9.30-phase1_peeking.png)
+
+![fully out](9.30-phase2_out.png)
+
+![patting the ghost](9.30-phase3_patting.png)
