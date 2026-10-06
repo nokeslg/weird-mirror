@@ -170,4 +170,4 @@ screen fast enough that the person can tell they caused it.
 
 ![patting the ghost](9.30-phase3_patting.png)
 
-10/5 - I worked quite a lot on changing the model of the ghost to feel more polished and make sure that the interactions felt better to actually engage with. I did using testing at a random coffe shop earlier in the day and figured out that my user needed even more affordances. I needed the ghost to be obviously behind the person so I tweaked it accordingly to try to help with that.
+10/5 - I worked quite a lot on changing the model of the ghost to feel more polished and make sure that the interactions felt better to actually engage with. I did user testing at a random coffee shop earlier in the day and figured out that my user needed even more affordances. I needed the ghost to be obviously behind the person so I tweaked it accordingly to try to help with that.
